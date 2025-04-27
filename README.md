@@ -1,5 +1,9 @@
-####################
-THIS FOLDER CONTAINS THE OPTIMSED IMPLEMENTATION USED IN Q10
+# Gray Scott Diffusion Parallel Fortran implementation
+
+This repository contains the code for the final MA40177 - Scientific Computing Coursework written in Fortran90.
+The code is meant to be run in parallel using MPI Routines.
+visualise.py contains the code to create an image from the approximated solution at time T.
+
 
 There are two jobcsript files:
 1. jobscript.slm
