@@ -25,5 +25,5 @@ To execute the grayscott executable run "sbatch jobscript.slm"
 To compile testing.f90 run "make testing"
 To execute the testing executable run "sbatch testing_jobscript.slm"
 
-![Alt text](solution_image.pdf)
+![Alt text](solution_image.png)
 
